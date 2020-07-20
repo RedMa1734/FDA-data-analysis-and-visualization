@@ -1,0 +1,28 @@
+﻿id,name
+CBER,Center for Biologics Evaluation & Research
+DCTD,Division of Chemistry and Toxicology Devices
+DHT1A,Ophthalmic Devices
+DHT1B,Dental Devices
+DHT1C,"ENT, Sleep Disordered Breathing, Respiratory and Anesthesia Devices"
+DHT2A,"Cardiac Electrophysiology, Diagnostics, and Monitoring Devices"
+DHT2B,"Circulatory Support, Structural and Vascular Devices"
+DHT2C,Coronary and Peripheral Interventional Devices
+DHT3A,"Renal, Gastrointestinal, Obesity and Transplant Devices"
+DHT3B,"Reproductive, Gynecology and Urology Devices"
+DHT3C,"Drug Delivery and General Hospital Devices, and Human Factors"
+DHT4A,General Surgery Devices
+DHT4B,Infection Control and Plastic Surgery Devices
+DHT5A,"Neurosurgical, Neurointerventional and Neurodiagnostic Devices"
+DHT5B,Neuromodulation and Physical Medicine Devices
+DHT6A,Joint Arthroplasty Devices
+DHT6B,Spinal Devices
+DHT6C,"Stereotaxic, Trauma and Restorative Devices"
+DIHD,Division of Immunology and Hematology Devices
+DMD,Division of Microbiology Devices
+OHT1,"Ophthalmic, Anesthesia, Respiratory, ENT and Dental Devices"
+OHT2,Cardiovascular Devices
+OHT3,"Gastrorenal, ObGyn, General Hospital, and Urology Devices"
+OHT4,Surgical and Infection Control Devices
+OHT5,Neurological and Physical Medicine Devices
+OHT6,Orthopedic Devices
+OIR,Office of In Vitro Diagnostics and Radiological Health
